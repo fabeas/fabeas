@@ -1,8 +1,8 @@
 
-- 🔭 I'm currently working on HTML,CSS, BOOTSTRAP, JAVASCRIPT
-- 🌱 I'm currently learning JAVASCRIPT , REACT , UI UX design
-- 🤔 I’m looking for help with REACT
-- 📫 How to reach me: bedirhan.ucbas@gmail.com
+-  I'm currently working on HTML , CSS , BOOTSTRAP, JAVASCRIPT
+-  I'm currently learning JAVASCRIPT , REACT , UI UX design
+-  I’m looking for help with REACT
+-  How to reach me: bedirhan.ucbas@gmail.com
 
 <br>
 <br>
