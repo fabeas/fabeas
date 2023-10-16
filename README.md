@@ -1,7 +1,7 @@
 
--  I'm currently working on HTML , CSS , BOOTSTRAP, JAVASCRIPT
--  I'm currently learning JAVASCRIPT , REACT , UI UX design
--  I’m looking for help with REACT
+-  I'm currently working on HTML , CSS , BOOTSTRAP, JAVASCRIPT, VueJS
+-  I'm currently learning  ,VuJS , ReactJs
+-  I’m looking for help with REACT and Vue
 -  How to reach me: bedirhan.ucbas@gmail.com
 
 <br>
